@@ -50,9 +50,7 @@ planet_radius_earth = planet_radius_solar * 109
 
 # Results Summary
 print("\n")
-print("======================================")
 print("     EXOPLANET DETECTION RESULTS")
-print("======================================")
 print(f"Target Star           : Kepler-10")
 print(f"Planet Candidate      : Kepler-10b")
 print(f"Orbital Period        : {best_period:.5f} days")
@@ -61,4 +59,3 @@ print(f"Transit Depth         : {transit_depth:.9f}")
 print(f"Transit Depth (ppm)   : {transit_depth*1e6:.2f}")
 print(f"Planet Radius         : {planet_radius_solar:.5f} Solar Radii")
 print(f"Planet Radius         : {planet_radius_earth:.2f} Earth Radii")
-print("======================================")
