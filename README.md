@@ -28,19 +28,16 @@ Exoplanet Detection Project/
     .venv/
     data/
        kepler10_q2.fits
-
     plots/
        lightcurve.png
        bls_periodogram.png
        folded_lightcurve.png
-
-    scripts/
+   scripts/
        download_data.py
        plot_lightcurve.py
        bls_search.py
        fold_lightcurve.py
        results_summary.py
-
    requirements.txt
    README.md
 
