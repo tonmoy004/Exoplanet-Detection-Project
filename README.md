@@ -114,6 +114,7 @@ The following procedure was followed in this project:
 # Sample Output
 
 Target Star          : Kepler-10
+
 Planet Candidate     : Kepler-10b
 
 Orbital Period       : 0.83753 days
