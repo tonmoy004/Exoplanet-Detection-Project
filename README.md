@@ -136,6 +136,9 @@ This project demonstrates how the transit method can be used to detect an exopla
 
 # Author
 **Tonmoy Goswami**
-  M.Sc. Physics
-  National Institute of Technology Meghalaya
-  tonmoygoswami111@gmail.com
+
+M.Sc. Physics
+  
+National Institute of Technology Meghalaya
+
+tonmoygoswami111@gmail.com
